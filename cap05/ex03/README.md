@@ -15,7 +15,7 @@ imprime_valores(7, 3.14, "Olá")
 
 ## Explicação
 
-A função `imprime\_valores()` é definida com três parâmetros: `inteiro`, `real` e `texto`. Esta função imprime os valores desses três parâmetros. Chamamos a função `imprime\_valores()` passando 7, 3.14 e "Olá"\ como argumentos.
+A função `imprime_valores()` é definida com três parâmetros: `inteiro`, `real` e `texto`. Esta função imprime os valores desses três parâmetros. Chamamos a função `imprime_valores()` passando 7, 3.14 e "Olá"\ como argumentos.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

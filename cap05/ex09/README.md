@@ -21,7 +21,7 @@ print(vinhos_caros)
 
 ## Explicação
 
-A lista `vinhos` é composta por dicionários, onde cada dicionário representa um vinho, contendo um campo para o nome do vinho e um campo para o preço do vinho. Para filtrar os vinhos que custam mais de 50 reais, usamos a função `filter`, que aplica uma função a cada elemento da lista e retorna uma nova lista com os elementos para os quais a função retorna verdadeiro. A função que usamos é uma função lambda que verifica se o preço do vinho é maior que 50. A função `filter` retorna um iterador, então usamos a função `list` para converter o iterador em uma lista. O resultado é uma nova lista `vinhos\_caros` que contém apenas os vinhos que custam mais de 50 reais. Finalmente, imprimimos a lista `vinhos\_caros`.
+A lista `vinhos` é composta por dicionários, onde cada dicionário representa um vinho, contendo um campo para o nome do vinho e um campo para o preço do vinho. Para filtrar os vinhos que custam mais de 50 reais, usamos a função `filter`, que aplica uma função a cada elemento da lista e retorna uma nova lista com os elementos para os quais a função retorna verdadeiro. A função que usamos é uma função lambda que verifica se o preço do vinho é maior que 50. A função `filter` retorna um iterador, então usamos a função `list` para converter o iterador em uma lista. O resultado é uma nova lista `vinhos_caros` que contém apenas os vinhos que custam mais de 50 reais. Finalmente, imprimimos a lista `vinhos_caros`.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie uma classe chamada `Circulo` com um método `\_\_init\_\_` que inicialize o raio do círculo. Crie um método chamado `area` que calcule a área do círculo. Crie uma classe chamada `Cilindro` que herde da classe `Circulo`, adicione o atributo `altura` e um método chamado `volume` que calcule o volume do cilindro. Crie uma instância da classe `Cilindro` com uma determinada altura e chame o método `area` e o método `volume`, mostrando os resultados.
+Crie uma classe chamada `Circulo` com um método `__init__` que inicialize o raio do círculo. Crie um método chamado `area` que calcule a área do círculo. Crie uma classe chamada `Cilindro` que herde da classe `Circulo`, adicione o atributo `altura` e um método chamado `volume` que calcule o volume do cilindro. Crie uma instância da classe `Cilindro` com uma determinada altura e chame o método `area` e o método `volume`, mostrando os resultados.
 
 ## Solução
 

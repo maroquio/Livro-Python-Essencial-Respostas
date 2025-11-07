@@ -20,7 +20,7 @@ else:
 
 ## Explicação
 
-O programa inicia importando o módulo `re`, necessário para trabalhar com expressões regulares. Em seguida, solicita ao usuário para digitar um CPF, armazenando a entrada na variável `cpf`. A variável `padrao\_cpf` contém a expressão regular `"`` d{3` . d{3} . d{3}- d{2}}`"`, que define o formato do CPF: três dígitos, um ponto, mais três dígitos, outro ponto, mais três dígitos, um hífen, e finalmente dois dígitos. A função `re.fullmatch` verifica se a *string* `cpf` corresponde exatamente ao padrão da expressão regular. Se corresponder, imprime que o CPF está no formato correto, caso contrário, informa que o formato está incorreto.
+O programa inicia importando o módulo `re`, necessário para trabalhar com expressões regulares. Em seguida, solicita ao usuário para digitar um CPF, armazenando a entrada na variável `cpf`. A variável `padrao_cpf` contém a expressão regular `"`` d{3` . d{3} . d{3}- d{2}}`"`, que define o formato do CPF: três dígitos, um ponto, mais três dígitos, outro ponto, mais três dígitos, um hífen, e finalmente dois dígitos. A função `re.fullmatch` verifica se a *string* `cpf` corresponde exatamente ao padrão da expressão regular. Se corresponder, imprime que o CPF está no formato correto, caso contrário, informa que o formato está incorreto.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

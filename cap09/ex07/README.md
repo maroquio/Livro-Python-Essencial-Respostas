@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie uma classe `Triangulo` com os atributos `lado1`, `lado2` e `lado3`. Implemente um método `tipo\_triangulo` que informe se o triângulo é equilátero, isósceles ou escaleno. Utilize tratamento de exceções para lidar com triângulos inválidos.
+Crie uma classe `Triangulo` com os atributos `lado1`, `lado2` e `lado3`. Implemente um método `tipo_triangulo` que informe se o triângulo é equilátero, isósceles ou escaleno. Utilize tratamento de exceções para lidar com triângulos inválidos.
 
 ## Solução
 
@@ -34,7 +34,7 @@ print(triangulo.tipo_triangulo())
 
 ## Explicação
 
-A classe `Triangulo` possui três atributos para representar os lados de um triângulo. O método `tipo\_triangulo` primeiro verifica se todos os lados são maiores que zero. Se não forem, uma `ValueError` é lançada com uma mensagem apropriada. Em seguida, verifica-se se a soma de quaisquer dois lados é maior que o terceiro lado, que é uma regra para todos os triângulos. Se essa regra for violada, outra `ValueError` é lançada. Finalmente, se essas duas verificações passarem, determinamos se o triângulo é equilátero (todos os lados são iguais), isósceles (dois lados são iguais) ou escaleno (todos os lados são diferentes) e retornamos a classificação correspondente.
+A classe `Triangulo` possui três atributos para representar os lados de um triângulo. O método `tipo_triangulo` primeiro verifica se todos os lados são maiores que zero. Se não forem, uma `ValueError` é lançada com uma mensagem apropriada. Em seguida, verifica-se se a soma de quaisquer dois lados é maior que o terceiro lado, que é uma regra para todos os triângulos. Se essa regra for violada, outra `ValueError` é lançada. Finalmente, se essas duas verificações passarem, determinamos se o triângulo é equilátero (todos os lados são iguais), isósceles (dois lados são iguais) ou escaleno (todos os lados são diferentes) e retornamos a classificação correspondente.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

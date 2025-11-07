@@ -18,7 +18,7 @@ print(f"Preço final da venda: R$ {valor_final:.2f}")
 
 ## Explicação
 
-O código utiliza a função `input()` para solicitar que o usuário digite o valor de uma venda e os percentuais de desconto e de imposto, que são armazenados nas variáveis `valor\_venda`, `desconto` e `imposto`, respectivamente. Em seguida, é calculado o preço final da venda, aplicando-se o desconto e o imposto sobre o preço original que, por sua vez, é impresso utilizando o `print()`.
+O código utiliza a função `input()` para solicitar que o usuário digite o valor de uma venda e os percentuais de desconto e de imposto, que são armazenados nas variáveis `valor_venda`, `desconto` e `imposto`, respectivamente. Em seguida, é calculado o preço final da venda, aplicando-se o desconto e o imposto sobre o preço original que, por sua vez, é impresso utilizando o `print()`.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

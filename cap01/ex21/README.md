@@ -20,7 +20,7 @@ print(f"Velocidade final: {v_final:.2f} m/s")
 
 ## Explicação
 
-Neste código, primeiro solicitamos ao usuário a distância percorrida, o tempo gasto e a aceleração, e armazenamos os valores nas variáveis `distancia`, `tempo` e `aceleracao`, respectivamente. Em seguida, calculamos a velocidade inicial utilizando a fórmula `v\_inicial = (distancia - 0.5 * aceleracao * tempo**2) / tempo` e a velocidade final com `v\_final = ``v\_inicial`` + aceleracao * tempo`. Por fim, imprimimos os resultados formatados com duas casas decimais.
+Neste código, primeiro solicitamos ao usuário a distância percorrida, o tempo gasto e a aceleração, e armazenamos os valores nas variáveis `distancia`, `tempo` e `aceleracao`, respectivamente. Em seguida, calculamos a velocidade inicial utilizando a fórmula `v_inicial = (distancia - 0.5 * aceleracao * tempo**2) / tempo` e a velocidade final com `v_final = ``v_inicial`` + aceleracao * tempo`. Por fim, imprimimos os resultados formatados com duas casas decimais.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

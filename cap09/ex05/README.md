@@ -21,7 +21,7 @@ ler_arquivo("arquivo_inexistente.txt")
 
 ## Explicação
 
-A função `ler\_arquivo` tenta abrir um arquivo com o nome fornecido no modo de leitura. Se o arquivo não existir, será lançada uma `FileNotFoundError`, que é capturada e tratada com uma mensagem de erro apropriada. Se houver algum problema ao ler o arquivo (por exemplo, se não tivermos permissão para ler o arquivo), uma `IOError` será lançada, que também é capturada e tratada com uma mensagem de erro apropriada.
+A função `ler_arquivo` tenta abrir um arquivo com o nome fornecido no modo de leitura. Se o arquivo não existir, será lançada uma `FileNotFoundError`, que é capturada e tratada com uma mensagem de erro apropriada. Se houver algum problema ao ler o arquivo (por exemplo, se não tivermos permissão para ler o arquivo), uma `IOError` será lançada, que também é capturada e tratada com uma mensagem de erro apropriada.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

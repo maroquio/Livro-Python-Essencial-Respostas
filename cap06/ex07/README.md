@@ -13,7 +13,7 @@ notas_arredondadas = {nome: round(nota) for nome, nota in nomes_notas.items()}
 
 ## Explicação
 
-Nesse código, definimos um dicionário chamado `nomes\_notas` com nomes de alunos como chaves e suas notas como valores. Então, usamos *dict comprehension* para criar um novo dicionário `notas\_arredondadas`, no qual arredondamos cada nota para o número inteiro mais próximo usando a função `round()`.
+Nesse código, definimos um dicionário chamado `nomes_notas` com nomes de alunos como chaves e suas notas como valores. Então, usamos *dict comprehension* para criar um novo dicionário `notas_arredondadas`, no qual arredondamos cada nota para o número inteiro mais próximo usando a função `round()`.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

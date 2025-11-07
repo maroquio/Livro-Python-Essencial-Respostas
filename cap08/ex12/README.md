@@ -36,7 +36,7 @@ carro.mostrar_velocidade()
 
 ## Explicação
 
-A classe `Veiculo` possui um atributo, `velocidade`, e três métodos: `acelerar`, que aumenta a velocidade; `frear`, que diminui a velocidade (mas não abaixo de zero); e `mostrar\_velocidade`, que imprime a velocidade atual. A classe `Carro` herda de `Veiculo`, adicionando um atributo, `marca`. A instância da classe `Carro` é criada com a marca "Ford", depois o carro acelera por 50 unidades, a velocidade é exibida, o carro freia por 20 unidades, e a nova velocidade é exibida.
+A classe `Veiculo` possui um atributo, `velocidade`, e três métodos: `acelerar`, que aumenta a velocidade; `frear`, que diminui a velocidade (mas não abaixo de zero); e `mostrar_velocidade`, que imprime a velocidade atual. A classe `Carro` herda de `Veiculo`, adicionando um atributo, `marca`. A instância da classe `Carro` é criada com a marca "Ford", depois o carro acelera por 50 unidades, a velocidade é exibida, o carro freia por 20 unidades, e a nova velocidade é exibida.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

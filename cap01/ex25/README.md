@@ -18,7 +18,7 @@ print(f"{nome} tem um salário líquido de R$ {salario_liquido:.2f}")
 
 ## Explicação
 
-Neste código, solicitamos ao usuário o nome da pessoa, o salário e o valor do imposto, e armazenamos os valores nas variáveis `nome`, `salario` e `imposto`, respectivamente. Em seguida, calculamos o salário líquido subtraindo o imposto do salário, ou seja, `salario\_liquido =` `salario - imposto`. Por fim, imprimimos o resultado formatado com duas casas decimais e o nome da pessoa.
+Neste código, solicitamos ao usuário o nome da pessoa, o salário e o valor do imposto, e armazenamos os valores nas variáveis `nome`, `salario` e `imposto`, respectivamente. Em seguida, calculamos o salário líquido subtraindo o imposto do salário, ou seja, `salario_liquido =` `salario - imposto`. Por fim, imprimimos o resultado formatado com duas casas decimais e o nome da pessoa.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

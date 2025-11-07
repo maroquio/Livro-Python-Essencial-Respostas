@@ -18,7 +18,7 @@ print(f"Aceleração: {aceleracao:.2f} m/s²")
 
 ## Explicação
 
-O código utiliza a função `input()` para solicitar que o usuário digite a velocidade inicial, a velocidade final e o tempo de transição de uma para outra, que são armazenados nas variáveis `v\_inicial`, `v\_final` e `tempo`, respectivamente. Em seguida, é calculada a aceleração do objeto, utilizando a fórmula (velocidade final - velocidade inicial) / tempo e impressa utilizando o `print()`. O resultado é formatado com 2 casas decimais e a unidade de medida da aceleração (metro por segundo ao quadrado - m/s²) é especificada.
+O código utiliza a função `input()` para solicitar que o usuário digite a velocidade inicial, a velocidade final e o tempo de transição de uma para outra, que são armazenados nas variáveis `v_inicial`, `v_final` e `tempo`, respectivamente. Em seguida, é calculada a aceleração do objeto, utilizando a fórmula (velocidade final - velocidade inicial) / tempo e impressa utilizando o `print()`. O resultado é formatado com 2 casas decimais e a unidade de medida da aceleração (metro por segundo ao quadrado - m/s²) é especificada.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

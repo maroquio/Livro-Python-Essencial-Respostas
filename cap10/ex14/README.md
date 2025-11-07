@@ -28,7 +28,7 @@ if __name__ == '__main__':
 
 ## Explicação
 
-No código acima, a função `tarefa\_demorada` simula uma tarefa que leva um longo tempo para ser concluída, composta por 5 etapas de 5 segundos cada. No laço principal, chamamos `asyncio.create\_task` para iniciar a tarefa longa em um novo objeto `task`, permitindo que o programa principal continue realizando suas próprias tarefas. Observe que, diferentemente do que acontece com a técnica *multithreading*, o programa principal não aguarda o término da tarefa demorada.
+No código acima, a função `tarefa_demorada` simula uma tarefa que leva um longo tempo para ser concluída, composta por 5 etapas de 5 segundos cada. No laço principal, chamamos `asyncio.create_task` para iniciar a tarefa longa em um novo objeto `task`, permitindo que o programa principal continue realizando suas próprias tarefas. Observe que, diferentemente do que acontece com a técnica *multithreading*, o programa principal não aguarda o término da tarefa demorada.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

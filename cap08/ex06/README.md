@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie uma classe chamada `Circulo` com um método `\_\_init\_\_` que inicialize o raio do círculo. Crie um método chamado `area` que retorne a área do círculo. Crie uma instância da classe `Circulo` e chame o método `area`.
+Crie uma classe chamada `Circulo` com um método `__init__` que inicialize o raio do círculo. Crie um método chamado `area` que retorne a área do círculo. Crie uma instância da classe `Circulo` e chame o método `area`.
 
 ## Solução
 
@@ -26,7 +26,7 @@ print(f"A área do círculo é: {resultado_area}")
 
 ## Explicação
 
-Nesta solução, criamos a classe `Circulo`, que possui um construtor `\_\_init\_\_` para inicializar o raio do círculo. Também definimos o método `area`, que calcula e retorna a área do círculo utilizando a fórmula `area = $$ * $raio^2$`. Importamos o módulo `math` para obter o valor de $$ e calculamos a área do círculo com um raio de 5 unidades. Em seguida, chamamos o método `area` para calcular e exibir a área do círculo.
+Nesta solução, criamos a classe `Circulo`, que possui um construtor `__init__` para inicializar o raio do círculo. Também definimos o método `area`, que calcula e retorna a área do círculo utilizando a fórmula `area = $$ * $raio^2$`. Importamos o módulo `math` para obter o valor de $$ e calculamos a área do círculo com um raio de 5 unidades. Em seguida, chamamos o método `area` para calcular e exibir a área do círculo.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

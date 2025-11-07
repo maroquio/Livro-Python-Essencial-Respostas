@@ -15,7 +15,7 @@ imprime_nome_idade(nome="João", idade=25)
 
 ## Explicação
 
-Neste código, a função `imprime\_nome\_idade()` é definida com dois parâmetros, `nome` e `idade`. A função imprime uma frase que inclui o nome e a idade passados. Chamamos a função `imprime\_nome\_idade()` passando "João"\ para o parâmetro `nome` e 25 para o parâmetro `idade`. Esses argumentos são passados de forma nomeada, o que significa que especificamos os nomes dos parâmetros ao passar os argumentos.
+Neste código, a função `imprime_nome_idade()` é definida com dois parâmetros, `nome` e `idade`. A função imprime uma frase que inclui o nome e a idade passados. Chamamos a função `imprime_nome_idade()` passando "João"\ para o parâmetro `nome` e 25 para o parâmetro `idade`. Esses argumentos são passados de forma nomeada, o que significa que especificamos os nomes dos parâmetros ao passar os argumentos.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

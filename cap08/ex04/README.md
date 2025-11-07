@@ -31,7 +31,7 @@ print(f"Velocidade atual após frear: {meu_carro.velocidade}")
 
 ## Explicação
 
-Nesta solução, criamos a classe `Carro`, que possui o atributo `velocidade` e os métodos `acelerar` e `frear`. No construtor `\_\_init\_\_`, definimos o atributo `velocidade` com o valor inicial zero. O método `acelerar` recebe o número de segundos como argumento e aumenta a velocidade do carro usando uma aceleração constante de 10 m/s². O método `frear` recebe o número de segundos como argumento e diminui a velocidade do carro usando uma desaceleração constante de 5 m/s². Criamos uma instância da classe `Carro`, chamada `meu\_carro`, e testamos os métodos `acelerar` e `frear`, exibindo a velocidade atual do carro após cada operação.
+Nesta solução, criamos a classe `Carro`, que possui o atributo `velocidade` e os métodos `acelerar` e `frear`. No construtor `__init__`, definimos o atributo `velocidade` com o valor inicial zero. O método `acelerar` recebe o número de segundos como argumento e aumenta a velocidade do carro usando uma aceleração constante de 10 m/s². O método `frear` recebe o número de segundos como argumento e diminui a velocidade do carro usando uma desaceleração constante de 5 m/s². Criamos uma instância da classe `Carro`, chamada `meu_carro`, e testamos os métodos `acelerar` e `frear`, exibindo a velocidade atual do carro após cada operação.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

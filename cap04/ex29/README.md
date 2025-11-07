@@ -21,7 +21,7 @@ print(f"O número do dia do ano é: {numero_dia_ano}")
 
 ## Explicação
 
-Nesta solução, inicialmente definimos a data e a hora atuais utilizando a função `datetime.now()`, que são atribuídas à variável `data\_hora\_atual`. Em seguida, formatamos essa data e hora para exibir o número do dia do ano, usando o método `strftime` com o código de formato `"\%j"`, que é atribuído à variável `numero\_dia\_ano`. Por fim, imprimimos a data e a hora atuais e o número do dia do ano.
+Nesta solução, inicialmente definimos a data e a hora atuais utilizando a função `datetime.now()`, que são atribuídas à variável `data_hora_atual`. Em seguida, formatamos essa data e hora para exibir o número do dia do ano, usando o método `strftime` com o código de formato `"\%j"`, que é atribuído à variável `numero_dia_ano`. Por fim, imprimimos a data e a hora atuais e o número do dia do ano.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie uma classe chamada `Retangulo` com um método `\_\_init\_\_` que inicialize a largura e a altura do retângulo. Crie um método chamado `area` que retorne a área do retângulo. Crie uma instância da classe `Retangulo` e chame o método `area`.
+Crie uma classe chamada `Retangulo` com um método `__init__` que inicialize a largura e a altura do retângulo. Crie um método chamado `area` que retorne a área do retângulo. Crie uma instância da classe `Retangulo` e chame o método `area`.
 
 ## Solução
 
@@ -25,7 +25,7 @@ print(f"A área do retângulo é: {resultado_area}")
 
 ## Explicação
 
-Nesta solução, criamos a classe `Retangulo`, que possui um construtor `\_\_init\_\_` para inicializar os atributos `largura` e `altura` do retângulo. Além disso, definimos o método `area`, que calcula e retorna a área do retângulo, utilizando a fórmula `área = largura * altura`. Em seguida, criamos uma instância da classe `Retangulo`, passando os valores de largura e altura. Posteriormente, chamamos o método `area` da instância para calcular a área do retângulo e a exibimos no console.
+Nesta solução, criamos a classe `Retangulo`, que possui um construtor `__init__` para inicializar os atributos `largura` e `altura` do retângulo. Além disso, definimos o método `area`, que calcula e retorna a área do retângulo, utilizando a fórmula `área = largura * altura`. Em seguida, criamos uma instância da classe `Retangulo`, passando os valores de largura e altura. Posteriormente, chamamos o método `area` da instância para calcular a área do retângulo e a exibimos no console.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

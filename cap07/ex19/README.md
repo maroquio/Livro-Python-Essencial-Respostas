@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Verifique se a biblioteca `requests` foi instalada corretamente no ambiente virtual "pratica\_venv"\ usando o comando `pip list`.
+Verifique se a biblioteca `requests` foi instalada corretamente no ambiente virtual "pratica_venv"\ usando o comando `pip list`.
 
 ## Solução
 
@@ -13,7 +13,7 @@ pip list
 
 ## Explicação
 
-Neste exercício, o comando `pip list` é usado para listar todos os pacotes Python instalados no ambiente virtual "pratica\_venv". Provavelmente você verá a biblioteca `requests` na lista de pacotes instalados.
+Neste exercício, o comando `pip list` é usado para listar todos os pacotes Python instalados no ambiente virtual "pratica_venv". Provavelmente você verá a biblioteca `requests` na lista de pacotes instalados.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

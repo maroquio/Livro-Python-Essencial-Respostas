@@ -16,7 +16,7 @@ print(resultado)
 
 ## Explicação
 
-Neste código, a função `eh\_par()` é definida com um parâmetro, `num`. Esta função retorna `True` se o número for par (ou seja, se o resto da divisão de `num` por 2 for igual a 0) e `False` caso contrário. Chamamos a função `eh\_par()` passando 7 como argumento e armazenamos o resultado retornado em `resultado`. Em seguida, imprimimos `resultado`.
+Neste código, a função `eh_par()` é definida com um parâmetro, `num`. Esta função retorna `True` se o número for par (ou seja, se o resto da divisão de `num` por 2 for igual a 0) e `False` caso contrário. Chamamos a função `eh_par()` passando 7 como argumento e armazenamos o resultado retornado em `resultado`. Em seguida, imprimimos `resultado`.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

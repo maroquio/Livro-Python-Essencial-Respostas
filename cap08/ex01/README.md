@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie uma classe chamada `Pessoa` com um método `\_\_init\_\_` que inicialize o nome e a idade da pessoa. Crie um método chamado `mostrar\_dados` que exiba o nome e a idade da pessoa. Crie duas instâncias da classe `Pessoa` e chame o método `mostrar\_dados` de cada uma das instâncias.
+Crie uma classe chamada `Pessoa` com um método `__init__` que inicialize o nome e a idade da pessoa. Crie um método chamado `mostrar_dados` que exiba o nome e a idade da pessoa. Crie duas instâncias da classe `Pessoa` e chame o método `mostrar_dados` de cada uma das instâncias.
 
 ## Solução
 
@@ -26,7 +26,7 @@ pessoa2.mostrar_dados()
 
 ## Explicação
 
-Nesta solução, criamos a classe `Pessoa`, que possui um construtor `\_\_init\_\_` para inicializar o nome e a idade da pessoa. Também definimos o método `mostrar\_dados`, que imprime o nome e a idade da pessoa na tela. Em seguida, criamos duas instâncias da classe `Pessoa` com nomes e idades diferentes e chamamos o método `mostrar\_dados` para cada instância, exibindo os dados de cada pessoa no console.
+Nesta solução, criamos a classe `Pessoa`, que possui um construtor `__init__` para inicializar o nome e a idade da pessoa. Também definimos o método `mostrar_dados`, que imprime o nome e a idade da pessoa na tela. Em seguida, criamos duas instâncias da classe `Pessoa` com nomes e idades diferentes e chamamos o método `mostrar_dados` para cada instância, exibindo os dados de cada pessoa no console.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

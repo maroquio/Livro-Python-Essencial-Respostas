@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-(**Difícil**) Crie um programa que peça ao usuário para digitar três números (A, B e C). Em seguida, o programa deve calcular e mostrar os valores das raízes da seguinte equação, usando a fórmula de Bhaskara: \[ Ax^2 + Bx + C = 0\]
+(**Difícil**) Crie um programa que peça ao usuário para digitar três números (A, B e C). Em seguida, o programa deve calcular e mostrar os valores das raízes da seguinte equação, usando a fórmula de Bhaskara: [ Ax^2 + Bx + C = 0]
 
 ## Solução
 

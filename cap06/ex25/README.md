@@ -22,7 +22,7 @@ for p, a in amigo_secreto.items():
 
 ## Explicação
 
-Nesta solução, inicialmente importamos o módulo `random`, necessário para a escolha aleatória de um amigo secreto. Criamos uma lista chamada `participantes`, que contém todos os nomes dos participantes do jogo de amigo secreto. Também definimos um dicionário vazio `amigo\_secreto` que será usado para armazenar os pares de amigo secreto. No laço `for`, iteramos sobre todos os participantes. Para cada participante, criamos uma lista `possiveis` que contém todos os participantes que ainda não foram escolhidos e que não são o participante atual. A escolha do amigo secreto é feita de forma aleatória dentre os possíveis candidatos utilizando `random.choice` e a escolha é armazenada no dicionário `amigo\_secreto`. Finalmente, iteramos sobre o dicionário `amigo\_secreto` e mostramos todos os pares de amigo secreto.
+Nesta solução, inicialmente importamos o módulo `random`, necessário para a escolha aleatória de um amigo secreto. Criamos uma lista chamada `participantes`, que contém todos os nomes dos participantes do jogo de amigo secreto. Também definimos um dicionário vazio `amigo_secreto` que será usado para armazenar os pares de amigo secreto. No laço `for`, iteramos sobre todos os participantes. Para cada participante, criamos uma lista `possiveis` que contém todos os participantes que ainda não foram escolhidos e que não são o participante atual. A escolha do amigo secreto é feita de forma aleatória dentre os possíveis candidatos utilizando `random.choice` e a escolha é armazenada no dicionário `amigo_secreto`. Finalmente, iteramos sobre o dicionário `amigo_secreto` e mostramos todos os pares de amigo secreto.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

@@ -21,7 +21,7 @@ print(f"A hora 2 horas atrás era: {hora_anterior}")
 
 ## Explicação
 
-Nesta solução, utilizamos a função `datetime.now()` para obter a data e a hora atuais que são atribuídas à variável `hora\_atual`. A classe `timedelta` é usada para subtrair 2 horas da hora atual utilizando a operação de subtração com o objeto `timedelta` que é inicializado com o argumento `hours=2`. A hora resultante é atribuída à variável `hora\_anterior`. Finalmente, as duas horas são impressas.
+Nesta solução, utilizamos a função `datetime.now()` para obter a data e a hora atuais que são atribuídas à variável `hora_atual`. A classe `timedelta` é usada para subtrair 2 horas da hora atual utilizando a operação de subtração com o objeto `timedelta` que é inicializado com o argumento `hours=2`. A hora resultante é atribuída à variável `hora_anterior`. Finalmente, as duas horas são impressas.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

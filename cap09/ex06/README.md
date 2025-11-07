@@ -25,7 +25,7 @@ while True:
 
 ## Explicação
 
-Nesta solução, inicializamos um número aleatório entre 1 e 10 chamado `numero\_secreto`. Então, entramos em um laço infinito onde solicitamos ao usuário um palpite. O palpite é convertido para um inteiro e, se for igual ao `numero\_secreto`, o usuário vence o jogo e o laço é interrompido. Se o palpite não for igual ao `numero\_secreto`, o usuário é informado que errou e o jogo continua. Se o usuário inserir algo que não possa ser convertido para um inteiro, uma `ValueError` será lançada. Essa exceção é capturada e uma mensagem de erro é exibida, pedindo ao usuário que insira um número.
+Nesta solução, inicializamos um número aleatório entre 1 e 10 chamado `numero_secreto`. Então, entramos em um laço infinito onde solicitamos ao usuário um palpite. O palpite é convertido para um inteiro e, se for igual ao `numero_secreto`, o usuário vence o jogo e o laço é interrompido. Se o palpite não for igual ao `numero_secreto`, o usuário é informado que errou e o jogo continua. Se o usuário inserir algo que não possa ser convertido para um inteiro, uma `ValueError` será lançada. Essa exceção é capturada e uma mensagem de erro é exibida, pedindo ao usuário que insira um número.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

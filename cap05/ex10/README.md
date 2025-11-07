@@ -36,7 +36,7 @@ A função `transformarLista` é uma função de ordem superior que recebe uma l
 
 A função `porExtenso` recebe um número inteiro entre 0 e 9 e retorna o nome desse número por extenso. Ela usa um dicionário para mapear números a seus nomes por extenso.
 
-Para usar essas funções, criamos uma `lista\_original` com os números de 1 a 5. Em seguida, chamamos a função `transformarLista`, passando a `lista\_original` e a função `porExtenso` como argumentos. O resultado é uma nova lista `lista\_transformada` que contém os nomes por extenso dos números da lista original. Por fim, imprimimos a `lista\_transformada`.
+Para usar essas funções, criamos uma `lista_original` com os números de 1 a 5. Em seguida, chamamos a função `transformarLista`, passando a `lista_original` e a função `porExtenso` como argumentos. O resultado é uma nova lista `lista_transformada` que contém os nomes por extenso dos números da lista original. Por fim, imprimimos a `lista_transformada`.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

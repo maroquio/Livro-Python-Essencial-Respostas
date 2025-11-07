@@ -24,7 +24,7 @@ adivinha_palavra("python")
 
 ## Explicação
 
-A função `adivinha\_palavra` recebe uma palavra secreta e pede ao usuário para adivinhar a palavra. Se a entrada do usuário não for composta apenas por letras, lançamos uma exceção `ValueError`. Se o usuário adivinhar a palavra corretamente, saímos do laço. Caso contrário, o laço continua até que a palavra seja adivinhada corretamente.
+A função `adivinha_palavra` recebe uma palavra secreta e pede ao usuário para adivinhar a palavra. Se a entrada do usuário não for composta apenas por letras, lançamos uma exceção `ValueError`. Se o usuário adivinhar a palavra corretamente, saímos do laço. Caso contrário, o laço continua até que a palavra seja adivinhada corretamente.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

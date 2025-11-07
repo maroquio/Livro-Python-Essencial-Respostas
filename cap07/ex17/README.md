@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Ative o ambiente virtual "pratica\_venv"\ que você criou no exercício anterior.
+Ative o ambiente virtual "pratica_venv"\ que você criou no exercício anterior.
 
 ## Solução
 
@@ -13,7 +13,7 @@ source pratica_venv/bin/activate
 
 ## Explicação
 
-Neste exercício, para ativar o ambiente virtual "pratica\_venv", você deve usar o comando `source pratica\_venv/bin/activate`. Esse comando adicionará o interpretador Python do ambiente virtual ao início do PATH, garantindo que você esteja usando o Python e os pacotes instalados nesse ambiente.
+Neste exercício, para ativar o ambiente virtual "pratica_venv", você deve usar o comando `source pratica_venv/bin/activate`. Esse comando adicionará o interpretador Python do ambiente virtual ao início do PATH, garantindo que você esteja usando o Python e os pacotes instalados nesse ambiente.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

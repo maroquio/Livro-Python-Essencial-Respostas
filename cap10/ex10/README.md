@@ -27,7 +27,7 @@ if __name__ == "__main__":
 
 ## Explicação
 
-Nesta solução, criamos uma função chamada `get\_url` que aceita uma URL, faz uma solicitação HTTP GET para a URL e imprime o conteúdo da resposta. No processo principal, criamos uma `thread` para cada URL em uma lista de URLs. Cada `thread` faz uma solicitação a uma URL e imprime o conteúdo da resposta.
+Nesta solução, criamos uma função chamada `get_url` que aceita uma URL, faz uma solicitação HTTP GET para a URL e imprime o conteúdo da resposta. No processo principal, criamos uma `thread` para cada URL em uma lista de URLs. Cada `thread` faz uma solicitação a uma URL e imprime o conteúdo da resposta.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

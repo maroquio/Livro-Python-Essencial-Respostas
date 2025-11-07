@@ -25,7 +25,7 @@ print(f"A data e hora atuais são anteriores à data e hora futura? {eh_antes}")
 
 ## Explicação
 
-Nesta solução, inicialmente definimos a data e a hora atuais utilizando a função `datetime.now()`, que são atribuídas à variável `data\_hora\_atual`. Em seguida, definimos uma data e hora futura inicializando um objeto `datetime` com uma data e hora específicas, que são atribuídas à variável `data\_hora\_futura`. A operação de comparação "$<$"\ é usada para verificar se a data e hora atuais são anteriores à data e hora futura. O resultado é um valor booleano que é atribuído à variável `eh\_antes`. Finalmente, as duas datas e horas e o resultado da comparação são impressos.
+Nesta solução, inicialmente definimos a data e a hora atuais utilizando a função `datetime.now()`, que são atribuídas à variável `data_hora_atual`. Em seguida, definimos uma data e hora futura inicializando um objeto `datetime` com uma data e hora específicas, que são atribuídas à variável `data_hora_futura`. A operação de comparação "$<$"\ é usada para verificar se a data e hora atuais são anteriores à data e hora futura. O resultado é um valor booleano que é atribuído à variável `eh_antes`. Finalmente, as duas datas e horas e o resultado da comparação são impressos.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

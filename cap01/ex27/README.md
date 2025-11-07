@@ -19,7 +19,7 @@ print(f"Valor final do investimento: R$ {valor_final:.2f}")
 
 ## Explicação
 
-Neste código, solicitamos ao usuário o valor inicial do investimento, a taxa de juros e o número de anos, e armazenamos os valores nas variáveis `valor\_inicial`, `taxa\_juros` e `meses`, respectivamente. Em seguida, convertemos a taxa de juros para decimal, dividindo-a por 100. Calculamos o valor final do investimento utilizando a fórmula dos juros compostos `valor\_final = valor\_inicial * (1 + taxa\_juros)**meses`. Por fim, imprimimos o resultado formatado com duas casas decimais.
+Neste código, solicitamos ao usuário o valor inicial do investimento, a taxa de juros e o número de anos, e armazenamos os valores nas variáveis `valor_inicial`, `taxa_juros` e `meses`, respectivamente. Em seguida, convertemos a taxa de juros para decimal, dividindo-a por 100. Calculamos o valor final do investimento utilizando a fórmula dos juros compostos `valor_final = valor_inicial * (1 + taxa_juros)**meses`. Por fim, imprimimos o resultado formatado com duas casas decimais.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

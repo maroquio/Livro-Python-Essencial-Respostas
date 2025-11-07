@@ -21,7 +21,7 @@ print(f"O número da semana do ano é: {numero_semana_ano}")
 
 ## Explicação
 
-Nesta solução, de maneira similar ao exercício anterior, definimos a data e a hora atuais utilizando a função `datetime.now()`, que são atribuídas à variável `data\_hora\_atual`. A seguir, formatamos essa data e hora para exibir o número da semana do ano, usando o método `strftime` com o código de formato `"\%U"`, que é atribuído à variável `numero\_semana\_ano`. Finalmente, imprimimos a data e a hora atuais e o número da semana do ano.
+Nesta solução, de maneira similar ao exercício anterior, definimos a data e a hora atuais utilizando a função `datetime.now()`, que são atribuídas à variável `data_hora_atual`. A seguir, formatamos essa data e hora para exibir o número da semana do ano, usando o método `strftime` com o código de formato `"\%U"`, que é atribuído à variável `numero_semana_ano`. Finalmente, imprimimos a data e a hora atuais e o número da semana do ano.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

@@ -26,7 +26,7 @@ if __name__ == "__main__":
 
 ## Explicação
 
-Nesta solução, criamos uma função chamada `tarefa\_demorada` para simular uma tarefa que executa 5 etapas de 5 segundos para finalizar. No processo principal, iniciamos uma `thread` para executar a tarefa demorada, enquanto o próprio processo principal continua executando outras tarefas que demoram 1 segundo cada.
+Nesta solução, criamos uma função chamada `tarefa_demorada` para simular uma tarefa que executa 5 etapas de 5 segundos para finalizar. No processo principal, iniciamos uma `thread` para executar a tarefa demorada, enquanto o próprio processo principal continua executando outras tarefas que demoram 1 segundo cada.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

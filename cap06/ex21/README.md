@@ -16,7 +16,7 @@ print(fruta_escolhida)
 
 ## Explicação
 
-Este programa começa importando o módulo `random` do Python, que fornece uma variedade de funções que geram números aleatórios de várias maneiras. Em seguida, ele define `lista\_frutas`, que é uma lista de strings que representam os nomes das frutas. Depois, utiliza a função `random.choice` para escolher uma fruta aleatória da `lista\_frutas` e atribuir o resultado à variável `fruta\_escolhida`. Finalmente, imprime a `fruta\_escolhida`. A função `random.choice` garante que cada item na lista tenha uma chance igual de ser escolhido.
+Este programa começa importando o módulo `random` do Python, que fornece uma variedade de funções que geram números aleatórios de várias maneiras. Em seguida, ele define `lista_frutas`, que é uma lista de strings que representam os nomes das frutas. Depois, utiliza a função `random.choice` para escolher uma fruta aleatória da `lista_frutas` e atribuir o resultado à variável `fruta_escolhida`. Finalmente, imprime a `fruta_escolhida`. A função `random.choice` garante que cada item na lista tenha uma chance igual de ser escolhido.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

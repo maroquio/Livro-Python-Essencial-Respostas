@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie uma classe chamada `Pessoa` com um método `\_\_init\_\_` que inicialize o nome e a idade da pessoa, e um método `mostrar\_dados` que exiba o nome e a idade da pessoa. Crie uma classe chamada `Funcionario` que herde da classe `Pessoa` e adicione um atributo `salario` e um método chamado `mostrar\_dados` que exiba o nome, a idade e o salário do funcionário. Crie uma lista com duas pessoas e dois funcionários e faça um laço para chamar o método `mostrar\_dados` de todos os objetos dessa lista.
+Crie uma classe chamada `Pessoa` com um método `__init__` que inicialize o nome e a idade da pessoa, e um método `mostrar_dados` que exiba o nome e a idade da pessoa. Crie uma classe chamada `Funcionario` que herde da classe `Pessoa` e adicione um atributo `salario` e um método chamado `mostrar_dados` que exiba o nome, a idade e o salário do funcionário. Crie uma lista com duas pessoas e dois funcionários e faça um laço para chamar o método `mostrar_dados` de todos os objetos dessa lista.
 
 ## Solução
 
@@ -38,9 +38,9 @@ for pessoa_ou_funcionario in pessoas_e_funcionarios:
 
 ## Explicação
 
-Nesta solução, criamos a classe `Pessoa`, que possui um construtor `\_\_init\_\_` para inicializar o nome e a idade da pessoa, e o método `mostrar\_dados`, que exibe o nome e a idade da pessoa. Em seguida, criamos a classe `Funcionario`, que herda da classe `Pessoa` e adiciona um atributo `salario` e o método `mostrar\_dados`, que exibe o nome, a idade e o salário do funcionário. 
+Nesta solução, criamos a classe `Pessoa`, que possui um construtor `__init__` para inicializar o nome e a idade da pessoa, e o método `mostrar_dados`, que exibe o nome e a idade da pessoa. Em seguida, criamos a classe `Funcionario`, que herda da classe `Pessoa` e adiciona um atributo `salario` e o método `mostrar_dados`, que exibe o nome, a idade e o salário do funcionário. 
 
-Após a definição das classes, criamos uma lista chamada `pessoas\_e\_funcionarios` contendo objetos de ambas as classes (duas instâncias de `Pessoa` e duas instâncias de `Funcionario`). Em seguida, utilizamos um laço `for` para chamar o método `mostrar\_dados` para cada objeto da lista, exibindo os dados de todas as pessoas e funcionários.
+Após a definição das classes, criamos uma lista chamada `pessoas_e_funcionarios` contendo objetos de ambas as classes (duas instâncias de `Pessoa` e duas instâncias de `Funcionario`). Em seguida, utilizamos um laço `for` para chamar o método `mostrar_dados` para cada objeto da lista, exibindo os dados de todas as pessoas e funcionários.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

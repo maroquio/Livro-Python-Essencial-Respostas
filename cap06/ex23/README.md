@@ -25,7 +25,7 @@ else:
 
 ## Explicação
 
-Este programa também começa importando o módulo `random`. Em seguida, ele define um dicionário `perguntas\_respostas`, onde as chaves são as perguntas e os valores são as respostas correspondentes. Em seguida, usa `random.choice` para escolher uma pergunta aleatória do dicionário. Como `random.choice` não pode ser usado diretamente em dicionários, primeiro convertemos as chaves do dicionário em uma lista usando `list()`. A pergunta escolhida é então impressa e o programa solicita ao usuário que digite a resposta. A resposta do usuário é comparada com a resposta correta do dicionário (ambas convertidas para letras minúsculas para evitar problemas de diferenciação de maiúsculas e minúsculas). Se a resposta estiver correta, o programa imprime uma mensagem de sucesso. Se a resposta estiver incorreta, ele imprime a resposta correta.
+Este programa também começa importando o módulo `random`. Em seguida, ele define um dicionário `perguntas_respostas`, onde as chaves são as perguntas e os valores são as respostas correspondentes. Em seguida, usa `random.choice` para escolher uma pergunta aleatória do dicionário. Como `random.choice` não pode ser usado diretamente em dicionários, primeiro convertemos as chaves do dicionário em uma lista usando `list()`. A pergunta escolhida é então impressa e o programa solicita ao usuário que digite a resposta. A resposta do usuário é comparada com a resposta correta do dicionário (ambas convertidas para letras minúsculas para evitar problemas de diferenciação de maiúsculas e minúsculas). Se a resposta estiver correta, o programa imprime uma mensagem de sucesso. Se a resposta estiver incorreta, ele imprime a resposta correta.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

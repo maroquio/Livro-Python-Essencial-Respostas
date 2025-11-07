@@ -13,7 +13,7 @@ aprovados = {nome: nota for nome, nota in nomes_notas.items() if nota >= 7}
 
 ## Explicação
 
-Nesse código, primeiro definimos um dicionário chamado `nomes\_notas` com nomes de alunos como chaves e suas notas como valores. Então, usamos *dict comprehension* para criar um novo dicionário `aprovados`. No novo dicionário, incluímos apenas alunos cuja nota é maior ou igual a 7. Vale lembrar que a estrutura *dict comprehension* é semelhante à *list comprehension*, mas usamos chaves e valores em vez de itens individuais.
+Nesse código, primeiro definimos um dicionário chamado `nomes_notas` com nomes de alunos como chaves e suas notas como valores. Então, usamos *dict comprehension* para criar um novo dicionário `aprovados`. No novo dicionário, incluímos apenas alunos cuja nota é maior ou igual a 7. Vale lembrar que a estrutura *dict comprehension* é semelhante à *list comprehension*, mas usamos chaves e valores em vez de itens individuais.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

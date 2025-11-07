@@ -20,7 +20,7 @@ for i in range(10):
 
 ## Explicação
 
-O *generator* `leitura\_sensor` gera uma sequência de números aleatórios entre 0 e 100, simulando as leituras de um sensor. Podemos usar a função `next()` para ler o próximo valor do sensor. Ao fim, usamos a função *generator* `leitura\_sensor()` para obter 10 leituras do sensor simulado.
+O *generator* `leitura_sensor` gera uma sequência de números aleatórios entre 0 e 100, simulando as leituras de um sensor. Podemos usar a função `next()` para ler o próximo valor do sensor. Ao fim, usamos a função *generator* `leitura_sensor()` para obter 10 leituras do sensor simulado.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

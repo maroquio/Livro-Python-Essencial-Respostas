@@ -32,7 +32,7 @@ minha_conta.exibir_saldo()
 
 ## Explicação
 
-A solução para este exercício envolve a criação da classe `ContaBancaria`, que possui o atributo `saldo` e os métodos `depositar`, `sacar` e `exibir\_saldo`. No construtor `\_\_init\_\_`, definimos o atributo `saldo` com o valor inicial zero. O método `depositar` aumenta o saldo da conta com o valor passado como argumento. O método `sacar` verifica se há saldo suficiente e, caso positivo, realiza o saque, diminuindo o saldo. Caso contrário, exibe uma mensagem informando que o saldo é insuficiente. O método `exibir\_saldo` imprime o saldo atual da conta. Criamos uma instância da classe `ContaBancaria`, chamada `minha\_conta`, e testamos os métodos `depositar`, `sacar` e `exibir\_saldo`, exibindo o saldo após cada operação.
+A solução para este exercício envolve a criação da classe `ContaBancaria`, que possui o atributo `saldo` e os métodos `depositar`, `sacar` e `exibir_saldo`. No construtor `__init__`, definimos o atributo `saldo` com o valor inicial zero. O método `depositar` aumenta o saldo da conta com o valor passado como argumento. O método `sacar` verifica se há saldo suficiente e, caso positivo, realiza o saque, diminuindo o saldo. Caso contrário, exibe uma mensagem informando que o saldo é insuficiente. O método `exibir_saldo` imprime o saldo atual da conta. Criamos uma instância da classe `ContaBancaria`, chamada `minha_conta`, e testamos os métodos `depositar`, `sacar` e `exibir_saldo`, exibindo o saldo após cada operação.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

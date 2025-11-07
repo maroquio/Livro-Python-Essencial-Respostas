@@ -26,7 +26,7 @@ if __name__ == "__main__":
 
 ## Explicação
 
-Nesta solução, criamos uma função chamada `download\_file`, que aceita uma URL e um nome de arquivo, e usa a função `urlretrieve` do módulo `urllib.request` para baixar o arquivo. No processo principal, criamos uma `thread` para cada URL que desejamos baixar, passando a URL e o nome do arquivo para a função `download\_file`. Cada `thread` baixa um arquivo simultaneamente.
+Nesta solução, criamos uma função chamada `download_file`, que aceita uma URL e um nome de arquivo, e usa a função `urlretrieve` do módulo `urllib.request` para baixar o arquivo. No processo principal, criamos uma `thread` para cada URL que desejamos baixar, passando a URL e o nome do arquivo para a função `download_file`. Cada `thread` baixa um arquivo simultaneamente.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

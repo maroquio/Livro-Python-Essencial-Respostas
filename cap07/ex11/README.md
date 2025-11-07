@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie um módulo chamado "Utils.py"\ com uma função chamada `exibir\_data\_hora`, que simplesmente mostre a data e a hora atuais no terminal. Agora crie um programa que utilize esse módulo personalizado para exibir a data e a hora atuais do sistema.
+Crie um módulo chamado "Utils.py"\ com uma função chamada `exibir_data_hora`, que simplesmente mostre a data e a hora atuais no terminal. Agora crie um programa que utilize esse módulo personalizado para exibir a data e a hora atuais do sistema.
 
 ## Solução
 
@@ -21,7 +21,7 @@ Utils.exibir_data_hora()
 
 ## Explicação
 
-Neste código, primeiro criamos um arquivo chamado Utils.py com uma função chamada `exibir\_data\_hora` que imprime a data e a hora atuais usando a classe `datetime` do módulo `datetime`. No programa principal (arquivo main.py), importamos o módulo `Utils` e usamos sua função `exibir\_data\_hora` para imprimir a data e a hora atuais.
+Neste código, primeiro criamos um arquivo chamado Utils.py com uma função chamada `exibir_data_hora` que imprime a data e a hora atuais usando a classe `datetime` do módulo `datetime`. No programa principal (arquivo main.py), importamos o módulo `Utils` e usamos sua função `exibir_data_hora` para imprimir a data e a hora atuais.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

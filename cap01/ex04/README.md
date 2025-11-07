@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie um programa que peça ao usuário para digitar seu peso e sua altura. Em seguida, calcule o índice de massa corporal (IMC) e imprima o resultado. A fórmula do IMC é: \[IMC = peso / altura^2\]
+Crie um programa que peça ao usuário para digitar seu peso e sua altura. Em seguida, calcule o índice de massa corporal (IMC) e imprima o resultado. A fórmula do IMC é: [IMC = peso / altura^2]
 
 ## Solução
 

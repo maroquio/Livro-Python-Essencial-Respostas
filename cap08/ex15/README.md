@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie uma classe chamada `Produto` com um método `\_\_init\_\_` que inicialize o nome, o preço e a quantidade em estoque do produto. Crie também um método chamado `mostrar\_dados` que exiba o nome, o preço e a quantidade em estoque do produto. Crie uma classe chamada `ProdutoImportado` que herde da classe `Produto` e adicione um atributo chamado `imposto`, que corresponde ao percentual de imposto que incide no respectivo produto. Crie um método chamado `preco\_final` na classe `ProdutoImportado` que calcule o preço final do produto com o imposto adicionado. Crie uma instância da classe `ProdutoImportado` e chame o método `mostrar\_dados` e o método `preco\_final`.
+Crie uma classe chamada `Produto` com um método `__init__` que inicialize o nome, o preço e a quantidade em estoque do produto. Crie também um método chamado `mostrar_dados` que exiba o nome, o preço e a quantidade em estoque do produto. Crie uma classe chamada `ProdutoImportado` que herde da classe `Produto` e adicione um atributo chamado `imposto`, que corresponde ao percentual de imposto que incide no respectivo produto. Crie um método chamado `preco_final` na classe `ProdutoImportado` que calcule o preço final do produto com o imposto adicionado. Crie uma instância da classe `ProdutoImportado` e chame o método `mostrar_dados` e o método `preco_final`.
 
 ## Solução
 
@@ -29,7 +29,7 @@ print(f"Preço final: R$ {produto.preco_final()}")
 
 ## Explicação
 
-A classe `Produto` possui os atributos `nome`, `preco` e `estoque`, além do método `mostrar\_dados` para exibir essas informações. A classe `ProdutoImportado`, que herda de `Produto`, adiciona um atributo `imposto` e um método `preco\_final` que calcula o preço final do produto, considerando o imposto. Uma instância da classe `ProdutoImportado` é criada com o nome "Camiseta", o preço R\$ 50,00, o estoque de 10 unidades e o imposto de 20\%. Em seguida, os métodos `mostrar\_dados` e `preco\_final` são chamados para exibir as informações do produto e o preço final, respectivamente.
+A classe `Produto` possui os atributos `nome`, `preco` e `estoque`, além do método `mostrar_dados` para exibir essas informações. A classe `ProdutoImportado`, que herda de `Produto`, adiciona um atributo `imposto` e um método `preco_final` que calcula o preço final do produto, considerando o imposto. Uma instância da classe `ProdutoImportado` é criada com o nome "Camiseta", o preço R\$ 50,00, o estoque de 10 unidades e o imposto de 20\%. Em seguida, os métodos `mostrar_dados` e `preco_final` são chamados para exibir as informações do produto e o preço final, respectivamente.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*
