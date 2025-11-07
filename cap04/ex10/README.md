@@ -10,7 +10,7 @@ Crie um programa que peça ao usuário para digitar uma frase e que, em seguida,
 import re
 
 frase = input("Digite uma frase: ")
-frase_sem_artigos = re.sub(r"\ba\b|\bo\b|\bas\b|\bos\b|\bum\b|\buns\b|\buma\b|\bumas\b", "", frase, flags=re.IGNORECASE)
+frase_sem_artigos = re.sub(r"ba\b|\bo\b|\bas\b|\bos\b|\bum\b|\buns\b|\buma\b|\bumas\b", "", frase, flags=re.IGNORECASE)
 print(frase_sem_artigos)
 ```
 

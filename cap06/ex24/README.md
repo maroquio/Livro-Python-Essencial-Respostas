@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Desenvolva um jogo de "Pedra, Papel e Tesoura". Crie uma lista com as opções "pedra", "papel"\ e "tesoura". Utilize a função `random.choice` para que o computador escolha aleatoriamente entre as opções. O usuário deve inserir a sua escolha e, em seguida, o programa deve comparar a escolha do usuário com a do computador para determinar o vencedor de acordo com as regras do jogo.
+Desenvolva um jogo de "Pedra, Papel e Tesoura". Crie uma lista com as opções "pedra", "papel" e "tesoura". Utilize a função `random.choice` para que o computador escolha aleatoriamente entre as opções. O usuário deve inserir a sua escolha e, em seguida, o programa deve comparar a escolha do usuário com a do computador para determinar o vencedor de acordo com as regras do jogo.
 
 ## Solução
 

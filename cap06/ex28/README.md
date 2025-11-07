@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Implemente um *generator* chamado "pega_palavras"\ que receba um texto e retorne, a cada iteração, uma palavra desse texto (considerando que as palavras são separadas por espaço). Teste seu *generator* com uma frase à sua escolha.
+Implemente um *generator* chamado "pega_palavras" que receba um texto e retorne, a cada iteração, uma palavra desse texto (considerando que as palavras são separadas por espaço). Teste seu *generator* com uma frase à sua escolha.
 
 ## Solução
 

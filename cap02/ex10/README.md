@@ -19,7 +19,7 @@ else:
 
 ## Explicação
 
-Neste código, solicitamos ao usuário que digite a temperatura corporal e a convertemos para `float` antes de armazená-la na variável `temperatura`. Usamos a estrutura condicional `if` para verificar se a temperatura está abaixo, acima ou dentro da faixa normal (36°C a 37°C). Se a temperatura for menor que 36, imprimimos que está "abaixo da faixa normal". Se a temperatura for maior que 37, imprimimos que está "acima da faixa normal". Caso contrário, a temperatura está "dentro da faixa normal"\ e imprimimos a mensagem correspondente.
+Neste código, solicitamos ao usuário que digite a temperatura corporal e a convertemos para `float` antes de armazená-la na variável `temperatura`. Usamos a estrutura condicional `if` para verificar se a temperatura está abaixo, acima ou dentro da faixa normal (36°C a 37°C). Se a temperatura for menor que 36, imprimimos que está "abaixo da faixa normal". Se a temperatura for maior que 37, imprimimos que está "acima da faixa normal". Caso contrário, a temperatura está "dentro da faixa normal" e imprimimos a mensagem correspondente.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

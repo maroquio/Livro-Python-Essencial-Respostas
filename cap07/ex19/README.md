@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Verifique se a biblioteca `requests` foi instalada corretamente no ambiente virtual "pratica_venv"\ usando o comando `pip list`.
+Verifique se a biblioteca `requests` foi instalada corretamente no ambiente virtual "pratica_venv" usando o comando `pip list`.
 
 ## Solução
 

@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie um programa que simule um semáforo de trânsito. Peça ao usuário para inserir a cor atual do semáforo (verde, amarelo ou vermelho) e utilize a estrutura `match..case` para imprimir uma ação correspondente. Por exemplo, se a cor for verde, imprima "Prossiga"; se for amarelo, imprima "Prepare-se para parar"; se for vermelha, imprima "Pare". Inclua um caso geral que imprima "Cor inválida"\ para qualquer outra entrada.
+Crie um programa que simule um semáforo de trânsito. Peça ao usuário para inserir a cor atual do semáforo (verde, amarelo ou vermelho) e utilize a estrutura `match..case` para imprimir uma ação correspondente. Por exemplo, se a cor for verde, imprima "Prossiga"; se for amarelo, imprima "Prepare-se para parar"; se for vermelha, imprima "Pare". Inclua um caso geral que imprima "Cor inválida" para qualquer outra entrada.
 
 ## Solução
 

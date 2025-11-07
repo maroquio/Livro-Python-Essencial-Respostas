@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie um programa que solicite ao usuário o nome de arquivo existente na mesma pasta, copie-o para um novo arquivo mudando a extensão para ".cópia"\ e exiba o resultado da operação na tela.
+Crie um programa que solicite ao usuário o nome de arquivo existente na mesma pasta, copie-o para um novo arquivo mudando a extensão para ".cópia" e exiba o resultado da operação na tela.
 
 ## Solução
 

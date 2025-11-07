@@ -20,7 +20,7 @@ print(data_formatada)
 
 ## Explicação
 
-Neste código, importamos os módulos `datetime` e `locale`. Configuramos o idioma para português brasileiro usando `locale.setlocale(locale.LC_TIME, 'pt_BR.utf8')`. Em seguida, obtemos a data e hora atuais como um objeto `datetime` usando `datetime.now()` e formatamos a data e hora para incluir o nome do dia da semana e do mês em português usando o método `strftime()` e a string de formatação `"\%A, \%d de \%B de \%Y, \%H:\%M"`. As constantes de formatação "A"\ e "B"\ representam, respectivamente, os nomes do dia da semana e do mês. A data e hora formatadas são impressas ao final.
+Neste código, importamos os módulos `datetime` e `locale`. Configuramos o idioma para português brasileiro usando `locale.setlocale(locale.LC_TIME, 'pt_BR.utf8')`. Em seguida, obtemos a data e hora atuais como um objeto `datetime` usando `datetime.now()` e formatamos a data e hora para incluir o nome do dia da semana e do mês em português usando o método `strftime()` e a string de formatação `"%A, \%d de \%B de \%Y, \%H:\%M"`. As constantes de formatação "A" e "B" representam, respectivamente, os nomes do dia da semana e do mês. A data e hora formatadas são impressas ao final.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

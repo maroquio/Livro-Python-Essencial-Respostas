@@ -7,7 +7,7 @@ Crie um programa que verifique se um texto digitado pelo usuário é um palíndr
 ## Solução
 
 ```python
-texto = input("Digite um texto: ").replace("\ ", "").lower()
+texto = input("Digite um texto: ").replace(" ", "").lower()
 texto_invertido = texto[::-1]
 
 if texto == texto_invertido:

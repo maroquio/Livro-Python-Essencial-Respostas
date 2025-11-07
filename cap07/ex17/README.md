@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Ative o ambiente virtual "pratica_venv"\ que você criou no exercício anterior.
+Ative o ambiente virtual "pratica_venv" que você criou no exercício anterior.
 
 ## Solução
 

@@ -10,7 +10,7 @@ Crie um programa que peça ao usuário para digitar um CPF e use uma expressão 
 import re
 
 cpf = input("Digite um CPF no formato 999.999.999-99: ")
-padrao_cpf = r'\d{3}\.\d{3}\.\d{3}-\d{2}'
+padrao_cpf = r'd{3}\.\d{3}\.\d{3}-\d{2}'
 
 if re.fullmatch(padrao_cpf, cpf):
     print("CPF no formato correto.")

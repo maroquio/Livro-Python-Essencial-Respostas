@@ -24,7 +24,7 @@ meu_animal.emitir_som()
 
 ## Explicação
 
-Nesta solução, criamos a classe `Animal`, que possui um construtor `__init__` para inicializar o nome e a idade do animal. Também definimos o método `emitir_som`, que exibe um som genérico do animal. Em seguida, criamos uma instância da classe `Animal` com um nome "Cachorro"\ e idade 3 e chamamos o método `emitir_som` para o animal, que imprimirá "Som genérico do animal"\ no console.
+Nesta solução, criamos a classe `Animal`, que possui um construtor `__init__` para inicializar o nome e a idade do animal. Também definimos o método `emitir_som`, que exibe um som genérico do animal. Em seguida, criamos uma instância da classe `Animal` com um nome "Cachorro" e idade 3 e chamamos o método `emitir_som` para o animal, que imprimirá "Som genérico do animal" no console.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

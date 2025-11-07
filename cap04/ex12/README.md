@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crie um programa que peça ao usuário para digitar uma frase e que, em seguida, verifique quantas palavras terminam com a letra "o"\ e quantas terminam com a letra "a".
+Crie um programa que peça ao usuário para digitar uma frase e que, em seguida, verifique quantas palavras terminam com a letra "o" e quantas terminam com a letra "a".
 
 ## Solução
 
@@ -19,7 +19,7 @@ print("Palavras terminadas em 'a':", conta_a)
 
 ## Explicação
 
-Neste código, o usuário é solicitado a inserir uma frase. A frase é então dividida em palavras usando o método `split()`. Usamos duas *list comprehensions* para contar quantas palavras terminam em "o"\ e "a", respectivamente, usando o método `endswith()`. Por fim, as contagens resultantes são impressas.
+Neste código, o usuário é solicitado a inserir uma frase. A frase é então dividida em palavras usando o método `split()`. Usamos duas *list comprehensions* para contar quantas palavras terminam em "o" e "a", respectivamente, usando o método `endswith()`. Por fim, as contagens resultantes são impressas.
 
 ---
 *Livro: Python Essencial: Para Programadores - Ricardo Maroquio*

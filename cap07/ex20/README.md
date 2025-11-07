@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Com o ambiente virtual ativado, use o comando `deactivate` para desativar o ambiente virtual "pratica_venv"\ e, em seguida, tente importar a biblioteca `requests` novamente. O que acontece?
+Com o ambiente virtual ativado, use o comando `deactivate` para desativar o ambiente virtual "pratica_venv" e, em seguida, tente importar a biblioteca `requests` novamente. O que acontece?
 
 ## Solução
 

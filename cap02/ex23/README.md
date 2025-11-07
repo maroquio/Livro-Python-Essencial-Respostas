@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Desenvolva um "Tradutor de Emoções"\ que peça ao usuário para inserir uma emoção (feliz, triste, nervoso etc.). Utilize a estrutura `match..case` para imprimir um emoji correspondente a essa emoção. Por exemplo, imprimir :) para feliz, :( para triste etc.
+Desenvolva um "Tradutor de Emoções" que peça ao usuário para inserir uma emoção (feliz, triste, nervoso etc.). Utilize a estrutura `match..case` para imprimir um emoji correspondente a essa emoção. Por exemplo, imprimir :) para feliz, :( para triste etc.
 
 ## Solução
 

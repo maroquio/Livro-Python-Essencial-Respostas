@@ -11,7 +11,7 @@ import re
 
 while True:
     frase = input("Digite uma frase com 5 palavras: ")
-    palavras = re.findall(r'\b\w+\b', frase)
+    palavras = re.findall(r'b\w+\b', frase)
 
     if len(palavras) == 5:
         break
